@@ -1,0 +1,1 @@
+Used ChatGPT to help guide me through the process of creating this program which allows you to select multiple programs to a number of "profiles" then load those profiles as needed to launch multiple other programs at once. Logo created primarily with AI.
