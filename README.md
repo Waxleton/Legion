@@ -1,5 +1,6 @@
-Legion Launcher - README
-Overview:
+**Legion Launcher - README**
+
+**Overview:**
 
 Legion Launcher is a desktop application designed to help users efficiently manage and launch multiple programs at once. The application allows users to create, edit, and store multiple "profiles," each containing a list of executable programs. With Legion Launcher, users can easily select a profile and launch all associated programs with a single click.
 
